@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "E:/porjects"
+		},
+		{
+			"path": "E:/Netflix"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "newsletter-sign-up-with-success-message-main"
+	}
+}
